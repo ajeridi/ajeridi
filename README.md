@@ -8,9 +8,10 @@ Final-year student in the **Bachelor in Applied Computer Science (Application De
 - **Back-end & Data**: PostgreSQL, PostgREST, MySQL, SQL Server
 - **Front-end**: Flutter, JavaFX, WinForms, Bootstrap
 - **IoT**: ESP32, MQTT, Blynk
-- **Data & ML**: pandas, NumPy, Matplotlib, scikit-learn
+- **Data & ML**: pandas, NumPy, Matplotlib, scikit-learn, Hadoop / MapReduce
 - **Practices**: MVC, MVVM, Command Pattern, UML, Git
 
+🌱 **Currently learning**: ASP.NET Core, Entity Framework, FluentValidation, Angular, Docker
 
 ## Projects
 
@@ -19,6 +20,10 @@ Final-year student in the **Bachelor in Applied Computer Science (Application De
 - **[scratchlike-project](https://github.com/ajeridi/scratchlike-project)**: Scratch-like visual language interpreter (Java, JavaFX, MVVM).
 - **[epayfc](https://github.com/ajeridi/epayfc)**: online auction website in PHP (custom MVC, MySQL) with role-based access control.
 - **[esp32-iot-car](https://github.com/ajeridi/esp32-iot-car)**: robot car driven from Blynk, with obstacle detection and an MQTT weather display (ESP32, C++).
+
+## Additional Coursework
+
+Advanced algorithms (sorting, graph search, divide and conquer, complexity) · Big Data (Hadoop, MapReduce, machine learning) · IoT development
 
 ## Languages
 
