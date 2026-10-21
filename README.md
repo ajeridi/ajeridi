@@ -7,6 +7,7 @@ Final-year student in the **Bachelor in Applied Computer Science (Application De
 - **Languages**: Java, C#, PHP, Dart, SQL / PL/pgSQL, JavaScript, C++ (Arduino), Python
 - **Back-end & Data**: PostgreSQL, PostgREST, MySQL, SQL Server
 - **Front-end**: Flutter, JavaFX, WinForms, Bootstrap
+- **Systems & Networks**: Linux (Debian, Ubuntu Server), Bash, cron, systemd, SSH, Apache, pfSense, Active Directory
 - **IoT**: ESP32, MQTT, Blynk
 - **Data & ML**: pandas, NumPy, Matplotlib, scikit-learn, Hadoop / MapReduce
 - **Practices**: MVC, MVVM, Command Pattern, UML, Git
@@ -20,6 +21,7 @@ Final-year student in the **Bachelor in Applied Computer Science (Application De
 - **[scratchlike-project](https://github.com/ajeridi/scratchlike-project)**: Scratch-like visual language interpreter (Java, JavaFX, MVVM).
 - **[epayfc](https://github.com/ajeridi/epayfc)**: online auction website in PHP (MVC framework provided by the course, MySQL) with role-based access control.
 - **[esp32-iot-car](https://github.com/ajeridi/esp32-iot-car)**: robot car driven from Blynk, with obstacle detection and an MQTT weather display (ESP32, C++).
+- **[enterprise-network-lab](https://github.com/ajeridi/enterprise-network-lab)**: secured company network with a pfSense firewall (LAN, DMZ, WAN), Active Directory, DNS, an Apache HTTPS server and a site-to-site IPsec VPN, plus automated Bash/cron backups pulled from the DMZ to the LAN.
 
 ## Additional Coursework
 
